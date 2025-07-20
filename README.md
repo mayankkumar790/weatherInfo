@@ -43,6 +43,6 @@ Welcome to **WeatherInfo** – a simple, clean, and elegant weather forecast web
 
 | Initial State | Valid City | Invalid City |
 |---------------|------------|--------------|
-| ![Search]<img width="1366" height="635" alt="Search-city" src="https://github.com/user-attachments/assets/32b150f8-f8f9-41d5-98f0-6e9135822416" />| ![City]<img width="1366" height="640" alt="City" src="https://github.com/user-attachments/assets/a47fef17-d779-498e-afa6-fb57d2fea639" /> | ![404] <img width="1366" height="638" alt="Not-found" src="https://github.com/user-attachments/assets/33463e04-b496-4496-b240-202e10d67fd8" />|
+| [Search]<img width="1366" height="635" alt="Search-city" src="https://github.com/user-attachments/assets/32b150f8-f8f9-41d5-98f0-6e9135822416" />| [City]<img width="1366" height="640" alt="City" src="https://github.com/user-attachments/assets/a47fef17-d779-498e-afa6-fb57d2fea639" /> | [404] <img width="1366" height="638" alt="Not-found" src="https://github.com/user-attachments/assets/33463e04-b496-4496-b240-202e10d67fd8" />|
 
 ---

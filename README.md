@@ -7,7 +7,6 @@ Welcome to **WeatherInfo** – a simple, clean, and elegant weather forecast web
 
 👉 [Click here to view my live site](https://weather-info-city.netlify.app/) 
 ---
-🔗 Live Site: p
 
 ## 🔍 Features
 

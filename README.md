@@ -3,6 +3,7 @@
 Welcome to **WeatherInfo** – a simple, clean, and elegant weather forecast web app built with **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data and provides a user-friendly experience to check the weather conditions for any city in the world.
 
 ---
+🔗 Live Site: weather-info-city.netlify.app
 
 ## 🔍 Features
 
